@@ -4,7 +4,7 @@
 
 This vanilla JavaScript web app displays various daily menus which can be viewed by clicking either the next or previous buttons.  
 
-![Image of app](img/app.JPG)
+![Image of app](https://lamp.computerstudi.es/~Rebecca100157685/COMP1073-A3/app.jpg)
 
 ## Concepts Learned
 
@@ -125,4 +125,4 @@ To create this "Bun on the Run" menu app the following JavaScript concepts were 
 ## Deck of cards API (remnant of Assignment 4)
 Given the documentation listed here: https://deckofcardsapi.com/ it lists 2 APIs/REST endpoints `Shuffle the Cards` and `Draw a card`.  What would you need to do to draw 1 card?
 
-- 'https://deckofcardsapi.com/api/deck/new/draw/?count=1'
+- 'https://deckofcardsapi.com/api/deck/new/draw/?count=1' - in this API, you would shuffle with a new deck and then select one card from the deck
